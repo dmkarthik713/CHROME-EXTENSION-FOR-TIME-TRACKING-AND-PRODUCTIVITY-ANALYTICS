@@ -19,3 +19,9 @@ The UI includes a heading, a data display section, and a "Clear Data" button. On
 This project was executed on JSFiddle, an online IDE that allowed me to test and debug code in real time without the need for local setup. It helped me understand DOM manipulation, event handling in JavaScript, and dynamic content creation. Through this task, I improved my skills in front-end development, learned how to organize code modularly, and gained confidence in building interactive web components independently.
 
 This was my first real-time implementation of code logic as part of an internship assignment.
+
+##output
+
+![Image](https://github.com/user-attachments/assets/7f8ac653-0149-42bb-bd42-40bbb813b3dd)
+
+![Image](https://github.com/user-attachments/assets/0f193eb1-9347-4792-81eb-aea4daba0976)
